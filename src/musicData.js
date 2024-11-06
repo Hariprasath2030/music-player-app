@@ -4,7 +4,7 @@ const track = [
       title: "Anbenum",
       artist: "Leo",
       audioSrc: "/music/track1.mp3",
-      thumbnail: "./assets/anbaneum.jpg" // Add the path to the image thumbnail
+      thumbnail: "../src/assets/anbaneum.jpg" // Add the path to the image thumbnail
     },
     {
       id: 2,
