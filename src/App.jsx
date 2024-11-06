@@ -4,7 +4,7 @@ import Player from './Player';
 import About from './About';
 import TrackList from './TrackList';
 import tracks from './musicData';
-import logo from './assets/hari.png'; // Import your logo
+import logo from '../public/photo/hari.png'; // Import your logo
 
 const App = () => {
   const [currentTrack, setCurrentTrack] = useState(tracks[0]);
