@@ -39,7 +39,7 @@ const App = () => {
       <nav>
         <div className="logo-container">
           <img src={logo} alt="Logo" className="logo" />
-          <span className="logo-text">Hari Music Player</span>
+          <span className="logo-text">HP Music Player</span>
         </div>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>

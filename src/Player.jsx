@@ -49,7 +49,7 @@ const Player = ({ track, isPlaying, togglePlay, nextTrack, prevTrack }) => {
     <div className="player">
       <img src={track.thumbnail} alt={`${track.title} thumbnail`} className="thumbnail" />
       <h3>Now Playing: {track.title}</h3>
-      <p>Artist: {track.artist}</p>
+      <p>Movie: {track.artist}</p>
 
       <audio
         ref={audioRef}
