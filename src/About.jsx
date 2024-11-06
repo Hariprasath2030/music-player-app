@@ -16,9 +16,9 @@ const About = () => {
 
         {/* Images Section */}
         <div className="images">
-          <img src="../public/photo/spotify.png" alt="Music scene 1" />
-          <img src="../public/photo/appple.png" alt="Music scene 2" />
-          <img src="../public/photo/Wynk.jpg" alt="Music scene 3" />
+          <img src="/public/photo/spotify.png" alt="Music scene 1" />
+          <img src="/public/photo/appple.png" alt="Music scene 2" />
+          <img src="/public/photo/Wynk.jpg" alt="Music scene 3" />
         </div>
     </div>
       </div>
